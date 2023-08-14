@@ -1,0 +1,1 @@
+# resultSummaryComponent
